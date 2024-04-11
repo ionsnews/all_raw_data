@@ -2,7 +2,7 @@ import openai
 
 
 # Set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 # Load article
 with open("art.txt", "r") as f:
