@@ -1,0 +1,1620 @@
+{
+    "data": {
+        "total_page": 23335,
+        "total_cards": 233346,
+        "page_num": 3,
+        "suggested_news": [
+            {
+                "rank": 20,
+                "news_type": "NEWS",
+                "hash_id": "iwa23ihn-1",
+                "type": "NEWS",
+                "version": 0,
+                "news_obj": {
+                    "old_hash_id": "ammonia-gas-leak-at-ennore-fertiliser-unit-residents-hospitalised-1703665495838",
+                    "hash_id": "iwa23ihn-1",
+                    "author_name": "Sumavarshak",
+                    "content": "An ammonia gas leak at a fertiliser manufacturing unit in Ennore resulted in several people being hospitalised, official sources said on 27 December. Following the leak, at about 11:45 pm on 26 December, an odour causing discomfort spread across the neighbourhood. Over 25 people in surrounding residential neighbourhoods experienced uneasiness, nausea, faintness, and they were taken to hospital.",
+                    "source_url": "https://thesouthfirst.com/tamilnadu/ammonia-gas-leaks-from-ennore-fertiliser-unit-people-hospitalised/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "thesouthfirst.com",
+                    "title": "Ammonia gas leak at Ennore fertiliser unit; residents hospitalised",
+                    "important": false,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703665390815_224.jpg?",
+                    "shortened_url": "https://shrts.in/uotBo",
+                    "created_at": 1703665495000,
+                    "score": 600,
+                    "category_names": [
+                        "national"
+                    ],
+                    "relevancy_tags": [
+                        "national"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "impressive_score": 10.33,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": "Oil trapped inside Chennai’s Ennore Creek area",
+                    "bottom_text": "Tap here to read more",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://thesouthfirst.com/tamilnadu/ennore-oil-spill-oil-trapped-inside-chennais-ennore-creek-area-says-coast-guard/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at thesouthfirst.com / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at thesouthfirst.com / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "version": 0,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T08:24:13.074Z",
+                    "trackers": [],
+                    "dfp_tags": "score:600,news:default,cat:national,hash:7",
+                    "dont_show_ad": false,
+                    "poll_tenant": "ENGLISH",
+                    "video_opinion_enabled": true,
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            },
+            {
+                "rank": 21,
+                "news_type": "NEWS",
+                "hash_id": "yfhvpoei-1",
+                "type": "NEWS",
+                "version": 0,
+                "news_obj": {
+                    "old_hash_id": "taj-mahal-disappears-amid-dense-layer-of-fog-pics-surface-1703665377334",
+                    "hash_id": "yfhvpoei-1",
+                    "author_name": "Ankush Verma",
+                    "content": "Tourists visiting Taj Mahal said they were unable to view the marble mausoleum from Royal Gate and Lady Diana Bench, which is closer to the monument, as it \"disappeared\" amid a dense layer of fog. Pictures of dense fog engulfing Taj Mahal surfaced online. According to IMD, Agra region will continue to witness thick fog for the next five days.",
+                    "source_url": "https://www.aninews.in/news/national/general-news/up-tourists-face-difficulties-seeing-taj-mahal-amid-dense-layer-of-fog-in-agra20231226123443/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "ANI",
+                    "title": "Taj Mahal ‘disappears’ amid dense layer of fog; pics surface",
+                    "important": false,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703664571816_19.jpg?",
+                    "shortened_url": "https://shrts.in/wcZrX",
+                    "created_at": 1703665377000,
+                    "score": 800,
+                    "category_names": [
+                        "national"
+                    ],
+                    "relevancy_tags": [
+                        "national"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "impressive_score": 12.33,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": "To see more pictures",
+                    "bottom_text": "Tap here",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://www.aninews.in/news/national/general-news/up-tourists-face-difficulties-seeing-taj-mahal-amid-dense-layer-of-fog-in-agra20231226123443/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at ANI / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "short by "
+                        },
+                        {
+                            "type": "TEXT",
+                            "text": "Ankush Verma"
+                        }
+                    ],
+                    "version": 0,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T08:18:00.239Z",
+                    "trackers": [],
+                    "dfp_tags": "score:800,news:default,cat:national,hash:4,noads:true",
+                    "dont_show_ad": true,
+                    "poll_tenant": "ENGLISH",
+                    "video_opinion_enabled": true,
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            },
+            {
+                "rank": 22,
+                "news_type": "NEWS",
+                "hash_id": "zk6kbldl-1",
+                "type": "NEWS",
+                "version": 0,
+                "news_obj": {
+                    "old_hash_id": "questionable-official-system-accused-of-voterprofiling-in-ap-1703665269733",
+                    "hash_id": "zk6kbldl-1",
+                    "author_name": "Sumavarshak",
+                    "content": "As Andhra Pradesh braces for the 2024 Assembly and Lok Sabha elections, the ruling YSRCP may have an ace up its sleeve — albeit a controversial one. The party has put in place an army of 10 lakh workers where the government machinery and the party cadre appear to overlap, giving CM Jagan Mohan a level of control and access.",
+                    "source_url": "https://thesouthfirst.com/andhrapradesh/volunteers-secretariat-gruha-saradhis-adjacent-system-engaged-in-voter-profiling-in-andhra-pradesh/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "The South First",
+                    "title": "Questionable 'official' system accused of voter-profiling in AP",
+                    "important": false,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703665223287_465.jpg?",
+                    "shortened_url": "https://shrts.in/VicVr",
+                    "created_at": 1703665269000,
+                    "score": 600,
+                    "category_names": [
+                        "politics",
+                        "national"
+                    ],
+                    "relevancy_tags": [
+                        "politics",
+                        "national"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "impressive_score": 10.559999999999999,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": " Why Prashant Kishor picked STC over I-PAC",
+                    "bottom_text": "Tap here to read more",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://thesouthfirst.com/andhrapradesh/why-poll-strategist-prashant-kishor-picked-showtime-consulting-over-brainchild-i-pac-in-andhra-pradesh/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at The South First / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at The South First / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "version": 0,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T08:20:26.844Z",
+                    "trackers": [],
+                    "dfp_tags": "score:600,news:default,cat:politics,cat:national,hash:0",
+                    "dont_show_ad": false,
+                    "poll_tenant": "ENGLISH",
+                    "video_opinion_enabled": true,
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            },
+            {
+                "rank": 23,
+                "news_type": "NEWS",
+                "hash_id": "adhtd8xh-2",
+                "type": "NEWS",
+                "version": 0,
+                "news_obj": {
+                    "old_hash_id": "factory-responsible-for-ammonia-leak-in-chennai-to-be-shut-temporarily-1703665216711",
+                    "hash_id": "adhtd8xh-2",
+                    "author_name": "Nidhi Sinha",
+                    "content": "After ammonia gas leaked from an undersea pipeline of Coromandel International Limited in Chennai's Ennore, Tamil Nadu Environment Minister Meyyanathan Siva said the fertiliser manufacturing factory will be shut till further orders. As per PTI, many people fainted after experiencing burning sensation in their throat and chest. State Health Minister Ma Subramanian met affected people at hospital.",
+                    "source_url": "https://news.abplive.com/tamil-nadu/ammonia-gas-leak-tamil-nadu-ennore-factory-responsible-for-leak-to-be-shut-coromdandel-international-limited-industry-1652628/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "ABP",
+                    "title": "Factory responsible for ammonia leak in Chennai to be shut temporarily",
+                    "important": true,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703660617247_581.jpg?",
+                    "shortened_url": "https://shrts.in/i5Dk9",
+                    "video_url": "https://www.youtube.com/watch?v=ukt_Jx2RaFo",
+                    "created_at": 1703665216000,
+                    "score": 800,
+                    "category_names": [
+                        "national"
+                    ],
+                    "relevancy_tags": [
+                        "national"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "show_video_as_image": true,
+                    "impressive_score": 47.33,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": "No need to panic: Avadi Joint Commissioner",
+                    "bottom_text": "Protests erupted in Ennore after the incident",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://www.youtube.com/watch?utm_campaign=fullarticle&v=ukt_Jx2RaFo&utm_medium=referral&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "video at ABP / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "short by "
+                        },
+                        {
+                            "type": "TEXT",
+                            "text": "Nidhi Sinha"
+                        }
+                    ],
+                    "version": 0,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T08:07:28.469Z",
+                    "trackers": [],
+                    "dfp_tags": "score:800,news:default,cat:national,hash:6,noads:true,notification:true",
+                    "dont_show_ad": true,
+                    "poll_tenant": "ENGLISH",
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            },
+            {
+                "rank": 24,
+                "news_type": "NEWS",
+                "hash_id": "wdkilpoe-1",
+                "type": "NEWS",
+                "version": 1,
+                "news_obj": {
+                    "old_hash_id": "2023s-top-ceos-in-india-triumphs-and-tribulations-1703665171150",
+                    "hash_id": "wdkilpoe-1",
+                    "author_name": "Rupesh Pandit",
+                    "content": "The year 2023 marked a mixed phase for Indian businesses. While some sectors rebounded post-pandemic, others struggled. Key CEOs like T Koshy (ONDC) and Bhavish Aggarwal (Ola Electric) made headlines for positive reasons, whereas Naresh Goyal (Jet Airways) and Hari Om Rai (Lava International) faced legal challenges. The article highlights their significant impacts and controversies.",
+                    "source_url": "https://www.thecore.in/economy/ceos-who-made-news-in-2023-and-why-2052676?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "The Core",
+                    "title": "2023's Top CEOs in India: Triumphs and Tribulations",
+                    "important": false,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703665097486_245.jpg?",
+                    "shortened_url": "https://shrts.in/b2dzn",
+                    "created_at": 1703665171000,
+                    "score": 600,
+                    "category_names": [
+                        "world",
+                        "business",
+                        "national"
+                    ],
+                    "relevancy_tags": [
+                        "world",
+                        "business",
+                        "national"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "impressive_score": 10.33,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": "Indian CEOs: 2023's Business Highs and Lows",
+                    "bottom_text": "Read More",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://www.thecore.in/economy/ceos-who-made-news-in-2023-and-why-2052676?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at The Core / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at The Core / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "version": 1,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T08:18:54.908Z",
+                    "trackers": [],
+                    "dfp_tags": "score:600,news:default,cat:world,cat:business,cat:national,hash:3",
+                    "dont_show_ad": false,
+                    "poll_tenant": "ENGLISH",
+                    "image_for_representation": true,
+                    "video_opinion_enabled": true,
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            },
+            {
+                "rank": 25,
+                "news_type": "NEWS",
+                "hash_id": "3b9agv7e-1",
+                "type": "NEWS",
+                "version": 1,
+                "news_obj": {
+                    "old_hash_id": "telangana-cm-dycm-seek-nationalproject-status-for-prlis-scheme-1703665110197",
+                    "hash_id": "3b9agv7e-1",
+                    "author_name": "Sumavarshak",
+                    "content": "Telangana CM Revanth Reddy and Deputy CM Mallu Bhatti Vikramarka urged PM Narendra Modi to accord national-project status to the Palamuru Rangareddy Lift Irrigation Scheme (PRLIS). The PRLIS is an irrigation project that aims to irrigate 12.3 lakh acres of land in the erstwhile Mahabubnagar district and is being constructed on the Krishna river at a cost of ₹35,000 crore.",
+                    "source_url": "https://thesouthfirst.com/telangana/telangana-cm-dycm-meet-pm-modi-seek-national-project-status-to-palamuru-rangareddy-scheme/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "thesouthfirst.com",
+                    "title": "Telangana CM, DyCM seek national-project status for PRLIS scheme",
+                    "important": false,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703665067891_506.jpg?",
+                    "shortened_url": "https://shrts.in/6aLGd",
+                    "created_at": 1703665110000,
+                    "score": 600,
+                    "category_names": [
+                        "politics",
+                        "national"
+                    ],
+                    "relevancy_tags": [
+                        "politics",
+                        "national"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "impressive_score": 10.559999999999999,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": "‘Work 18 hours a day to deliver 6 guarantees'",
+                    "bottom_text": "Tap here to read more",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://thesouthfirst.com/telangana/work-18-hours-a-day-to-deliver-6-guarantees-or-opt-out-telangana-cm-revanth-reddy-tells-officials/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at thesouthfirst.com / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at thesouthfirst.com / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "version": 1,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T08:17:50.404Z",
+                    "trackers": [],
+                    "dfp_tags": "score:600,news:default,cat:politics,cat:national,hash:4",
+                    "dont_show_ad": false,
+                    "poll_tenant": "ENGLISH",
+                    "video_opinion_enabled": true,
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            },
+            {
+                "rank": 26,
+                "news_type": "NEWS",
+                "hash_id": "agkcr8zm-1",
+                "type": "NEWS",
+                "version": 3,
+                "news_obj": {
+                    "old_hash_id": "woman-shares-unconsented-pic-of-man-from-delhi-metro-1703664987296",
+                    "hash_id": "agkcr8zm-1",
+                    "author_name": "Swarna Srikanth",
+                    "content": "Netizens are discussing how, in digital times, consent is often taken for granted violating one's privacy. The topic created a buzz after an X user identified as 'Lolo' clicked a male metro passenger's picture and shared it online, purportedly without taking his permission for it. \"Saw this handsome guy in metro, crush updated,\" she captioned the photo post.",
+                    "source_url": "https://www.freepressjournal.in/amp/viral/woman-clicks-picture-of-handsome-guy-in-metro-posts-video-of-sitting-next-to-him-later-internet-reacts-over-privacy-issue?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "Free Press Journal",
+                    "title": "Woman Shares 'Unconsented' Pic Of Man From Delhi Metro",
+                    "important": false,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703665378704_333.jpg?",
+                    "shortened_url": "https://shrts.in/yD6KW",
+                    "created_at": 1703664987000,
+                    "score": 600,
+                    "category_names": [
+                        "hatke",
+                        "national",
+                        "travel"
+                    ],
+                    "relevancy_tags": [
+                        "hatke",
+                        "national",
+                        "travel"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "impressive_score": 11.7,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": "Netizens reflect on consent & privacy issues ",
+                    "bottom_text": "Tap here for more details ",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://www.freepressjournal.in/amp/viral/woman-clicks-picture-of-handsome-guy-in-metro-posts-video-of-sitting-next-to-him-later-internet-reacts-over-privacy-issue?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at Free Press Journal / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at Free Press Journal / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "version": 3,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T08:15:01.937Z",
+                    "trackers": [],
+                    "dfp_tags": "score:600,news:default,cat:hatke,cat:national,cat:travel,hash:7",
+                    "dont_show_ad": false,
+                    "poll_tenant": "ENGLISH",
+                    "image_for_representation": true,
+                    "video_opinion_enabled": true,
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            },
+            {
+                "rank": 27,
+                "news_type": "NEWS",
+                "hash_id": "fpdyk5wn-1",
+                "type": "NEWS",
+                "version": 0,
+                "news_obj": {
+                    "old_hash_id": "prokannada-groups-protest-in-bluru-over-delay-in-kannada-nameplates-installation-1703664964741",
+                    "hash_id": "fpdyk5wn-1",
+                    "author_name": "Subhangi Singh",
+                    "content": "Several pro-Kannada groups including Karnataka Rakshana Vedike held protest in Bengaluru on Thursday demanding immediate implementation of BBMP's order regarding Kannada nameplates. The protestors wearing red and yellow scarves vandalised hotels and tore English signboards. On December 25, BBMP ordered commercial stores in Bengaluru to install 60% Kannada language nameplates by February 28.",
+                    "source_url": "https://www.republicworld.com/india/karnataka-language-row-live-massive-protest-near-kempegowda-airport-hotels-vandalised/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "Republic World",
+                    "title": "Pro-Kannada groups protest in B'luru over delay in Kannada nameplates installation ",
+                    "important": true,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703662985522_76.jpg?",
+                    "shortened_url": "https://shrts.in/1PiyP",
+                    "created_at": 1703664964000,
+                    "score": 800,
+                    "category_names": [
+                        "national"
+                    ],
+                    "relevancy_tags": [
+                        "national"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "impressive_score": 47.33,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": "To watch video of the protest ",
+                    "bottom_text": "Tap here",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://twitter.com/ANI/status/1739893262209749018?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1739893262209749018%7Ctwgr%5E7456be0c8913563db37dc16b6d9688c4b4a7e540%7Ctwcon%5Es1_&utm_campaign=fullarticle&utm_medium=referral&ref_url=https%3A%2F%2Fwww.ndtv.com%2Fsouth%2Fbengaluru-60-kannada-kannada-language-row-after-shops-get-60-kannada-order-pro-kannada-groups-go-on-rampage-4750179&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at Republic World / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "short by "
+                        },
+                        {
+                            "type": "TEXT",
+                            "text": "Subhangi Singh"
+                        }
+                    ],
+                    "version": 0,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T08:06:39.178Z",
+                    "trackers": [],
+                    "dfp_tags": "score:800,news:default,cat:national,hash:2,noads:true,notification:true",
+                    "dont_show_ad": true,
+                    "poll_tenant": "ENGLISH",
+                    "video_opinion_enabled": true,
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            },
+            {
+                "rank": 28,
+                "news_type": "NEWS",
+                "hash_id": "md1ctvsb-1",
+                "type": "NEWS",
+                "version": 0,
+                "news_obj": {
+                    "old_hash_id": "new-freedom-will-be-seen-when-petrol-diesel-imports-stop-gadkari-1703664305764",
+                    "hash_id": "md1ctvsb-1",
+                    "author_name": "Debaroti Adhikary",
+                    "content": "Union Minister Nitin Gadkari in a recent conclave said India will see \"new freedom\" when it no longer imports petrol and diesel. \"The import bill for petrol and diesel stands at ₹16 lakh crore now. If we reduce this import, the money...will go to the poor,\" he said. \"Until this import is stopped, terrorism won't stop across world,\" he added. \n",
+                    "source_url": "https://auto.hindustantimes.com/auto/news/india-will-see-new-freedom-when-not-a-drop-of-petrol-and-diesel-is-imported-here-says-nitin-gadkari/amp-41703567978431.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "HT Auto",
+                    "title": "New freedom will be seen when petrol, diesel imports stop: Gadkari",
+                    "important": false,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703660904695_675.jpg?",
+                    "shortened_url": "https://shrts.in/8YsVw",
+                    "created_at": 1703664305000,
+                    "score": 600,
+                    "category_names": [
+                        "business",
+                        "national"
+                    ],
+                    "relevancy_tags": [
+                        "national",
+                        "business"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "impressive_score": 10.33,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": "'This is why we've introduced alternative fuels'",
+                    "bottom_text": "Tap to know what more Gadkari said",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://auto.hindustantimes.com/auto/news/india-will-see-new-freedom-when-not-a-drop-of-petrol-and-diesel-is-imported-here-says-nitin-gadkari/amp-41703567978431.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at HT Auto / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "short by "
+                        },
+                        {
+                            "type": "TEXT",
+                            "text": "Debaroti Adhikary"
+                        }
+                    ],
+                    "version": 0,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T07:09:33.043Z",
+                    "trackers": [],
+                    "dfp_tags": "score:600,news:default,cat:business,cat:national,hash:6",
+                    "dont_show_ad": false,
+                    "poll_tenant": "ENGLISH",
+                    "image_for_representation": true,
+                    "video_opinion_enabled": true,
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            },
+            {
+                "rank": 29,
+                "news_type": "NEWS",
+                "hash_id": "0pvtppes-1",
+                "type": "NEWS",
+                "version": 1,
+                "news_obj": {
+                    "old_hash_id": "bjp-mp-pratap-simha-defends-brother-amid-woodsmuggling-allegation-1703664074305",
+                    "hash_id": "0pvtppes-1",
+                    "author_name": "Sumavarshak",
+                    "content": "Two days after Vikram Simha was accused of illegal felling of hundreds of trees and smuggling wood from a village in Hassan district, his brother and BJP MP Pratap Simha denied these allegations. Pratap claimed that his brother was a farmer living away from public life and was not named in the FIR connected to the tree-felling case.",
+                    "source_url": "https://thesouthfirst.com/karnataka/bjp-mp-pratap-simha-defends-brother-deems-wood-smuggling-allegations-a-congress-conspiracy/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "thesouthfirst.com",
+                    "title": "BJP MP Pratap Simha defends brother amid wood-smuggling allegation",
+                    "important": false,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703663914114_447.jpg?",
+                    "shortened_url": "https://shrts.in/sB1dq",
+                    "created_at": 1703664074000,
+                    "score": 600,
+                    "category_names": [
+                        "politics",
+                        "national"
+                    ],
+                    "relevancy_tags": [
+                        "politics",
+                        "national"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "impressive_score": 10.559999999999999,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": " People will decide if I am a ‘traitor’: Simha",
+                    "bottom_text": "Tap here to read more",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://thesouthfirst.com/karnataka/parliament-security-breach-bjp-mp-pratap-simha-breaks-silence-says-people-will-decide-if-he-is-traitor/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at thesouthfirst.com / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at thesouthfirst.com / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "version": 1,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T08:00:31.061Z",
+                    "trackers": [],
+                    "dfp_tags": "score:600,news:default,cat:politics,cat:national,hash:6",
+                    "dont_show_ad": false,
+                    "poll_tenant": "ENGLISH",
+                    "video_opinion_enabled": true,
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            }
+        ],
+        "news_list": [
+            {
+                "rank": 20,
+                "news_type": "NEWS",
+                "hash_id": "iwa23ihn-1",
+                "type": "NEWS",
+                "version": 0,
+                "news_obj": {
+                    "old_hash_id": "ammonia-gas-leak-at-ennore-fertiliser-unit-residents-hospitalised-1703665495838",
+                    "hash_id": "iwa23ihn-1",
+                    "author_name": "Sumavarshak",
+                    "content": "An ammonia gas leak at a fertiliser manufacturing unit in Ennore resulted in several people being hospitalised, official sources said on 27 December. Following the leak, at about 11:45 pm on 26 December, an odour causing discomfort spread across the neighbourhood. Over 25 people in surrounding residential neighbourhoods experienced uneasiness, nausea, faintness, and they were taken to hospital.",
+                    "source_url": "https://thesouthfirst.com/tamilnadu/ammonia-gas-leaks-from-ennore-fertiliser-unit-people-hospitalised/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "thesouthfirst.com",
+                    "title": "Ammonia gas leak at Ennore fertiliser unit; residents hospitalised",
+                    "important": false,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703665390815_224.jpg?",
+                    "shortened_url": "https://shrts.in/uotBo",
+                    "created_at": 1703665495000,
+                    "score": 600,
+                    "category_names": [
+                        "national"
+                    ],
+                    "relevancy_tags": [
+                        "national"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "impressive_score": 10.33,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": "Oil trapped inside Chennai’s Ennore Creek area",
+                    "bottom_text": "Tap here to read more",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://thesouthfirst.com/tamilnadu/ennore-oil-spill-oil-trapped-inside-chennais-ennore-creek-area-says-coast-guard/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at thesouthfirst.com / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at thesouthfirst.com / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "version": 0,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T08:24:13.074Z",
+                    "trackers": [],
+                    "dfp_tags": "score:600,news:default,cat:national,hash:7",
+                    "dont_show_ad": false,
+                    "poll_tenant": "ENGLISH",
+                    "video_opinion_enabled": true,
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            },
+            {
+                "rank": 21,
+                "news_type": "NEWS",
+                "hash_id": "yfhvpoei-1",
+                "type": "NEWS",
+                "version": 0,
+                "news_obj": {
+                    "old_hash_id": "taj-mahal-disappears-amid-dense-layer-of-fog-pics-surface-1703665377334",
+                    "hash_id": "yfhvpoei-1",
+                    "author_name": "Ankush Verma",
+                    "content": "Tourists visiting Taj Mahal said they were unable to view the marble mausoleum from Royal Gate and Lady Diana Bench, which is closer to the monument, as it \"disappeared\" amid a dense layer of fog. Pictures of dense fog engulfing Taj Mahal surfaced online. According to IMD, Agra region will continue to witness thick fog for the next five days.",
+                    "source_url": "https://www.aninews.in/news/national/general-news/up-tourists-face-difficulties-seeing-taj-mahal-amid-dense-layer-of-fog-in-agra20231226123443/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "ANI",
+                    "title": "Taj Mahal ‘disappears’ amid dense layer of fog; pics surface",
+                    "important": false,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703664571816_19.jpg?",
+                    "shortened_url": "https://shrts.in/wcZrX",
+                    "created_at": 1703665377000,
+                    "score": 800,
+                    "category_names": [
+                        "national"
+                    ],
+                    "relevancy_tags": [
+                        "national"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "impressive_score": 12.33,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": "To see more pictures",
+                    "bottom_text": "Tap here",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://www.aninews.in/news/national/general-news/up-tourists-face-difficulties-seeing-taj-mahal-amid-dense-layer-of-fog-in-agra20231226123443/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at ANI / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "short by "
+                        },
+                        {
+                            "type": "TEXT",
+                            "text": "Ankush Verma"
+                        }
+                    ],
+                    "version": 0,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T08:18:00.239Z",
+                    "trackers": [],
+                    "dfp_tags": "score:800,news:default,cat:national,hash:4,noads:true",
+                    "dont_show_ad": true,
+                    "poll_tenant": "ENGLISH",
+                    "video_opinion_enabled": true,
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            },
+            {
+                "rank": 22,
+                "news_type": "NEWS",
+                "hash_id": "zk6kbldl-1",
+                "type": "NEWS",
+                "version": 0,
+                "news_obj": {
+                    "old_hash_id": "questionable-official-system-accused-of-voterprofiling-in-ap-1703665269733",
+                    "hash_id": "zk6kbldl-1",
+                    "author_name": "Sumavarshak",
+                    "content": "As Andhra Pradesh braces for the 2024 Assembly and Lok Sabha elections, the ruling YSRCP may have an ace up its sleeve — albeit a controversial one. The party has put in place an army of 10 lakh workers where the government machinery and the party cadre appear to overlap, giving CM Jagan Mohan a level of control and access.",
+                    "source_url": "https://thesouthfirst.com/andhrapradesh/volunteers-secretariat-gruha-saradhis-adjacent-system-engaged-in-voter-profiling-in-andhra-pradesh/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "The South First",
+                    "title": "Questionable 'official' system accused of voter-profiling in AP",
+                    "important": false,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703665223287_465.jpg?",
+                    "shortened_url": "https://shrts.in/VicVr",
+                    "created_at": 1703665269000,
+                    "score": 600,
+                    "category_names": [
+                        "politics",
+                        "national"
+                    ],
+                    "relevancy_tags": [
+                        "politics",
+                        "national"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "impressive_score": 10.559999999999999,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": " Why Prashant Kishor picked STC over I-PAC",
+                    "bottom_text": "Tap here to read more",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://thesouthfirst.com/andhrapradesh/why-poll-strategist-prashant-kishor-picked-showtime-consulting-over-brainchild-i-pac-in-andhra-pradesh/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at The South First / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at The South First / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "version": 0,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T08:20:26.844Z",
+                    "trackers": [],
+                    "dfp_tags": "score:600,news:default,cat:politics,cat:national,hash:0",
+                    "dont_show_ad": false,
+                    "poll_tenant": "ENGLISH",
+                    "video_opinion_enabled": true,
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            },
+            {
+                "rank": 23,
+                "news_type": "NEWS",
+                "hash_id": "adhtd8xh-2",
+                "type": "NEWS",
+                "version": 0,
+                "news_obj": {
+                    "old_hash_id": "factory-responsible-for-ammonia-leak-in-chennai-to-be-shut-temporarily-1703665216711",
+                    "hash_id": "adhtd8xh-2",
+                    "author_name": "Nidhi Sinha",
+                    "content": "After ammonia gas leaked from an undersea pipeline of Coromandel International Limited in Chennai's Ennore, Tamil Nadu Environment Minister Meyyanathan Siva said the fertiliser manufacturing factory will be shut till further orders. As per PTI, many people fainted after experiencing burning sensation in their throat and chest. State Health Minister Ma Subramanian met affected people at hospital.",
+                    "source_url": "https://news.abplive.com/tamil-nadu/ammonia-gas-leak-tamil-nadu-ennore-factory-responsible-for-leak-to-be-shut-coromdandel-international-limited-industry-1652628/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "ABP",
+                    "title": "Factory responsible for ammonia leak in Chennai to be shut temporarily",
+                    "important": true,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703660617247_581.jpg?",
+                    "shortened_url": "https://shrts.in/i5Dk9",
+                    "video_url": "https://www.youtube.com/watch?v=ukt_Jx2RaFo",
+                    "created_at": 1703665216000,
+                    "score": 800,
+                    "category_names": [
+                        "national"
+                    ],
+                    "relevancy_tags": [
+                        "national"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "show_video_as_image": true,
+                    "impressive_score": 47.33,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": "No need to panic: Avadi Joint Commissioner",
+                    "bottom_text": "Protests erupted in Ennore after the incident",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://www.youtube.com/watch?utm_campaign=fullarticle&v=ukt_Jx2RaFo&utm_medium=referral&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "video at ABP / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "short by "
+                        },
+                        {
+                            "type": "TEXT",
+                            "text": "Nidhi Sinha"
+                        }
+                    ],
+                    "version": 0,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T08:07:28.469Z",
+                    "trackers": [],
+                    "dfp_tags": "score:800,news:default,cat:national,hash:6,noads:true,notification:true",
+                    "dont_show_ad": true,
+                    "poll_tenant": "ENGLISH",
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            },
+            {
+                "rank": 24,
+                "news_type": "NEWS",
+                "hash_id": "wdkilpoe-1",
+                "type": "NEWS",
+                "version": 1,
+                "news_obj": {
+                    "old_hash_id": "2023s-top-ceos-in-india-triumphs-and-tribulations-1703665171150",
+                    "hash_id": "wdkilpoe-1",
+                    "author_name": "Rupesh Pandit",
+                    "content": "The year 2023 marked a mixed phase for Indian businesses. While some sectors rebounded post-pandemic, others struggled. Key CEOs like T Koshy (ONDC) and Bhavish Aggarwal (Ola Electric) made headlines for positive reasons, whereas Naresh Goyal (Jet Airways) and Hari Om Rai (Lava International) faced legal challenges. The article highlights their significant impacts and controversies.",
+                    "source_url": "https://www.thecore.in/economy/ceos-who-made-news-in-2023-and-why-2052676?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "The Core",
+                    "title": "2023's Top CEOs in India: Triumphs and Tribulations",
+                    "important": false,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703665097486_245.jpg?",
+                    "shortened_url": "https://shrts.in/b2dzn",
+                    "created_at": 1703665171000,
+                    "score": 600,
+                    "category_names": [
+                        "world",
+                        "business",
+                        "national"
+                    ],
+                    "relevancy_tags": [
+                        "world",
+                        "business",
+                        "national"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "impressive_score": 10.33,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": "Indian CEOs: 2023's Business Highs and Lows",
+                    "bottom_text": "Read More",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://www.thecore.in/economy/ceos-who-made-news-in-2023-and-why-2052676?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at The Core / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at The Core / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "version": 1,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T08:18:54.908Z",
+                    "trackers": [],
+                    "dfp_tags": "score:600,news:default,cat:world,cat:business,cat:national,hash:3",
+                    "dont_show_ad": false,
+                    "poll_tenant": "ENGLISH",
+                    "image_for_representation": true,
+                    "video_opinion_enabled": true,
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            },
+            {
+                "rank": 25,
+                "news_type": "NEWS",
+                "hash_id": "3b9agv7e-1",
+                "type": "NEWS",
+                "version": 1,
+                "news_obj": {
+                    "old_hash_id": "telangana-cm-dycm-seek-nationalproject-status-for-prlis-scheme-1703665110197",
+                    "hash_id": "3b9agv7e-1",
+                    "author_name": "Sumavarshak",
+                    "content": "Telangana CM Revanth Reddy and Deputy CM Mallu Bhatti Vikramarka urged PM Narendra Modi to accord national-project status to the Palamuru Rangareddy Lift Irrigation Scheme (PRLIS). The PRLIS is an irrigation project that aims to irrigate 12.3 lakh acres of land in the erstwhile Mahabubnagar district and is being constructed on the Krishna river at a cost of ₹35,000 crore.",
+                    "source_url": "https://thesouthfirst.com/telangana/telangana-cm-dycm-meet-pm-modi-seek-national-project-status-to-palamuru-rangareddy-scheme/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "thesouthfirst.com",
+                    "title": "Telangana CM, DyCM seek national-project status for PRLIS scheme",
+                    "important": false,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703665067891_506.jpg?",
+                    "shortened_url": "https://shrts.in/6aLGd",
+                    "created_at": 1703665110000,
+                    "score": 600,
+                    "category_names": [
+                        "politics",
+                        "national"
+                    ],
+                    "relevancy_tags": [
+                        "politics",
+                        "national"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "impressive_score": 10.559999999999999,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": "‘Work 18 hours a day to deliver 6 guarantees'",
+                    "bottom_text": "Tap here to read more",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://thesouthfirst.com/telangana/work-18-hours-a-day-to-deliver-6-guarantees-or-opt-out-telangana-cm-revanth-reddy-tells-officials/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at thesouthfirst.com / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at thesouthfirst.com / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "version": 1,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T08:17:50.404Z",
+                    "trackers": [],
+                    "dfp_tags": "score:600,news:default,cat:politics,cat:national,hash:4",
+                    "dont_show_ad": false,
+                    "poll_tenant": "ENGLISH",
+                    "video_opinion_enabled": true,
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            },
+            {
+                "rank": 26,
+                "news_type": "NEWS",
+                "hash_id": "agkcr8zm-1",
+                "type": "NEWS",
+                "version": 3,
+                "news_obj": {
+                    "old_hash_id": "woman-shares-unconsented-pic-of-man-from-delhi-metro-1703664987296",
+                    "hash_id": "agkcr8zm-1",
+                    "author_name": "Swarna Srikanth",
+                    "content": "Netizens are discussing how, in digital times, consent is often taken for granted violating one's privacy. The topic created a buzz after an X user identified as 'Lolo' clicked a male metro passenger's picture and shared it online, purportedly without taking his permission for it. \"Saw this handsome guy in metro, crush updated,\" she captioned the photo post.",
+                    "source_url": "https://www.freepressjournal.in/amp/viral/woman-clicks-picture-of-handsome-guy-in-metro-posts-video-of-sitting-next-to-him-later-internet-reacts-over-privacy-issue?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "Free Press Journal",
+                    "title": "Woman Shares 'Unconsented' Pic Of Man From Delhi Metro",
+                    "important": false,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703665378704_333.jpg?",
+                    "shortened_url": "https://shrts.in/yD6KW",
+                    "created_at": 1703664987000,
+                    "score": 600,
+                    "category_names": [
+                        "hatke",
+                        "national",
+                        "travel"
+                    ],
+                    "relevancy_tags": [
+                        "hatke",
+                        "national",
+                        "travel"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "impressive_score": 11.7,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": "Netizens reflect on consent & privacy issues ",
+                    "bottom_text": "Tap here for more details ",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://www.freepressjournal.in/amp/viral/woman-clicks-picture-of-handsome-guy-in-metro-posts-video-of-sitting-next-to-him-later-internet-reacts-over-privacy-issue?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at Free Press Journal / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at Free Press Journal / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "version": 3,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T08:15:01.937Z",
+                    "trackers": [],
+                    "dfp_tags": "score:600,news:default,cat:hatke,cat:national,cat:travel,hash:7",
+                    "dont_show_ad": false,
+                    "poll_tenant": "ENGLISH",
+                    "image_for_representation": true,
+                    "video_opinion_enabled": true,
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            },
+            {
+                "rank": 27,
+                "news_type": "NEWS",
+                "hash_id": "fpdyk5wn-1",
+                "type": "NEWS",
+                "version": 0,
+                "news_obj": {
+                    "old_hash_id": "prokannada-groups-protest-in-bluru-over-delay-in-kannada-nameplates-installation-1703664964741",
+                    "hash_id": "fpdyk5wn-1",
+                    "author_name": "Subhangi Singh",
+                    "content": "Several pro-Kannada groups including Karnataka Rakshana Vedike held protest in Bengaluru on Thursday demanding immediate implementation of BBMP's order regarding Kannada nameplates. The protestors wearing red and yellow scarves vandalised hotels and tore English signboards. On December 25, BBMP ordered commercial stores in Bengaluru to install 60% Kannada language nameplates by February 28.",
+                    "source_url": "https://www.republicworld.com/india/karnataka-language-row-live-massive-protest-near-kempegowda-airport-hotels-vandalised/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "Republic World",
+                    "title": "Pro-Kannada groups protest in B'luru over delay in Kannada nameplates installation ",
+                    "important": true,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703662985522_76.jpg?",
+                    "shortened_url": "https://shrts.in/1PiyP",
+                    "created_at": 1703664964000,
+                    "score": 800,
+                    "category_names": [
+                        "national"
+                    ],
+                    "relevancy_tags": [
+                        "national"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "impressive_score": 47.33,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": "To watch video of the protest ",
+                    "bottom_text": "Tap here",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://twitter.com/ANI/status/1739893262209749018?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1739893262209749018%7Ctwgr%5E7456be0c8913563db37dc16b6d9688c4b4a7e540%7Ctwcon%5Es1_&utm_campaign=fullarticle&utm_medium=referral&ref_url=https%3A%2F%2Fwww.ndtv.com%2Fsouth%2Fbengaluru-60-kannada-kannada-language-row-after-shops-get-60-kannada-order-pro-kannada-groups-go-on-rampage-4750179&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at Republic World / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "short by "
+                        },
+                        {
+                            "type": "TEXT",
+                            "text": "Subhangi Singh"
+                        }
+                    ],
+                    "version": 0,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T08:06:39.178Z",
+                    "trackers": [],
+                    "dfp_tags": "score:800,news:default,cat:national,hash:2,noads:true,notification:true",
+                    "dont_show_ad": true,
+                    "poll_tenant": "ENGLISH",
+                    "video_opinion_enabled": true,
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            },
+            {
+                "rank": 28,
+                "news_type": "NEWS",
+                "hash_id": "md1ctvsb-1",
+                "type": "NEWS",
+                "version": 0,
+                "news_obj": {
+                    "old_hash_id": "new-freedom-will-be-seen-when-petrol-diesel-imports-stop-gadkari-1703664305764",
+                    "hash_id": "md1ctvsb-1",
+                    "author_name": "Debaroti Adhikary",
+                    "content": "Union Minister Nitin Gadkari in a recent conclave said India will see \"new freedom\" when it no longer imports petrol and diesel. \"The import bill for petrol and diesel stands at ₹16 lakh crore now. If we reduce this import, the money...will go to the poor,\" he said. \"Until this import is stopped, terrorism won't stop across world,\" he added. \n",
+                    "source_url": "https://auto.hindustantimes.com/auto/news/india-will-see-new-freedom-when-not-a-drop-of-petrol-and-diesel-is-imported-here-says-nitin-gadkari/amp-41703567978431.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "HT Auto",
+                    "title": "New freedom will be seen when petrol, diesel imports stop: Gadkari",
+                    "important": false,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703660904695_675.jpg?",
+                    "shortened_url": "https://shrts.in/8YsVw",
+                    "created_at": 1703664305000,
+                    "score": 600,
+                    "category_names": [
+                        "business",
+                        "national"
+                    ],
+                    "relevancy_tags": [
+                        "national",
+                        "business"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "impressive_score": 10.33,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": "'This is why we've introduced alternative fuels'",
+                    "bottom_text": "Tap to know what more Gadkari said",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://auto.hindustantimes.com/auto/news/india-will-see-new-freedom-when-not-a-drop-of-petrol-and-diesel-is-imported-here-says-nitin-gadkari/amp-41703567978431.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at HT Auto / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "short by "
+                        },
+                        {
+                            "type": "TEXT",
+                            "text": "Debaroti Adhikary"
+                        }
+                    ],
+                    "version": 0,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T07:09:33.043Z",
+                    "trackers": [],
+                    "dfp_tags": "score:600,news:default,cat:business,cat:national,hash:6",
+                    "dont_show_ad": false,
+                    "poll_tenant": "ENGLISH",
+                    "image_for_representation": true,
+                    "video_opinion_enabled": true,
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            },
+            {
+                "rank": 29,
+                "news_type": "NEWS",
+                "hash_id": "0pvtppes-1",
+                "type": "NEWS",
+                "version": 1,
+                "news_obj": {
+                    "old_hash_id": "bjp-mp-pratap-simha-defends-brother-amid-woodsmuggling-allegation-1703664074305",
+                    "hash_id": "0pvtppes-1",
+                    "author_name": "Sumavarshak",
+                    "content": "Two days after Vikram Simha was accused of illegal felling of hundreds of trees and smuggling wood from a village in Hassan district, his brother and BJP MP Pratap Simha denied these allegations. Pratap claimed that his brother was a farmer living away from public life and was not named in the FIR connected to the tree-felling case.",
+                    "source_url": "https://thesouthfirst.com/karnataka/bjp-mp-pratap-simha-defends-brother-deems-wood-smuggling-allegations-a-congress-conspiracy/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "source_name": "thesouthfirst.com",
+                    "title": "BJP MP Pratap Simha defends brother amid wood-smuggling allegation",
+                    "important": false,
+                    "image_url": "https://nis-gs.pix.in/inshorts/images/v1/variants/jpg/m/2023/12_dec/27_wed/img_1703663914114_447.jpg?",
+                    "shortened_url": "https://shrts.in/sB1dq",
+                    "created_at": 1703664074000,
+                    "score": 600,
+                    "category_names": [
+                        "politics",
+                        "national"
+                    ],
+                    "relevancy_tags": [
+                        "politics",
+                        "national"
+                    ],
+                    "tenant": "ENGLISH",
+                    "fb_object_id": "",
+                    "fb_like_count": 0,
+                    "country_code": "IN",
+                    "impressive_score": 10.559999999999999,
+                    "targeted_city": [
+                        ""
+                    ],
+                    "gallery_image_urls": [],
+                    "full_gallery_urls": [],
+                    "bottom_headline": " People will decide if I am a ‘traitor’: Simha",
+                    "bottom_text": "Tap here to read more",
+                    "darker_fonts": true,
+                    "bottom_panel_link": "https://thesouthfirst.com/karnataka/parliament-security-breach-bjp-mp-pratap-simha-breaks-silence-says-people-will-decide-if-he-is-traitor/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+                    "bottom_type": "DEFAULT",
+                    "byline_1": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at thesouthfirst.com / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "byline_2": [
+                        {
+                            "type": "TEXT",
+                            "text": "swipe left for more at thesouthfirst.com / "
+                        },
+                        {
+                            "type": "TIME"
+                        }
+                    ],
+                    "version": 1,
+                    "position_start_time": "1970-01-01T00:00:00Z",
+                    "position_expire_time": "2023-12-28T08:00:31.061Z",
+                    "trackers": [],
+                    "dfp_tags": "score:600,news:default,cat:politics,cat:national,hash:6",
+                    "dont_show_ad": false,
+                    "poll_tenant": "ENGLISH",
+                    "video_opinion_enabled": true,
+                    "show_inshorts_brand_name": true,
+                    "crypto_coin_preference": null,
+                    "is_overlay_supported": false,
+                    "news_type": "NEWS",
+                    "is_muted": false,
+                    "video_audio_type": "USER_SPECIFIED_AUDIO",
+                    "auto_play_type": "AUTO_PLAY_USER_SPECIFIED",
+                    "show_in_video_feed_only": false,
+                    "similar_threshold": 0,
+                    "is_similar_feed_available": false
+                }
+            }
+        ]
+    },
+    "error": false
+}
